@@ -11,7 +11,10 @@ This week's homework required us to refactor an e-commerce website built with Re
 
 ## Deployed Links:
 * [See Live Site](https://github.com/egraham96/ReduxStore)
-* [Link to GitHub Repo](https://github.com/egraham96/homework-assignment-06)
+* [Link to GitHub Repo](https://github.com/egraham96/ReduxStore)
+
+## Screenshot of Deployed Application: 
+![Screenshot](assets/Screenshot.PNG)
 
 
 ## How to Contribute:
