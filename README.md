@@ -10,7 +10,7 @@ This week's homework required us to refactor an e-commerce website built with Re
 -Alternatively, you can download this repository. Then, navigate to repository directory in your terminal. Install application dependencies with the 'npm install' command and run application with 'npm run develop'. 
 
 ## Deployed Links:
-* [See Live Site](https://egraham96.github.io/homework-assignment-06/)
+* [See Live Site](https://github.com/egraham96/ReduxStore)
 * [Link to GitHub Repo](https://github.com/egraham96/homework-assignment-06)
 
 
